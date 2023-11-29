@@ -10,7 +10,7 @@ export class HeaderComponent {
     color:'red'
   }
   username='';
-blue: any;
+blue: true;
   usernamecall(username:any){
 console.log(username);
   }
